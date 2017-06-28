@@ -1,0 +1,22 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "flatwhite-syntax"
+    ]
+  editor:
+    fontFamily: "\"ＭＳ ゴシック\""
+    fontSize: 16
+    invisibles: {}
+  "exception-reporting":
+    userId: "a57861a3-8aa2-47db-8a39-786dcf3c0682"
+  "line-ending-selector":
+    defaultLineEnding: "LF"
+  "linter-shellcheck": {}
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
+".shell.source":
+  editor:
+    tabLength: 4

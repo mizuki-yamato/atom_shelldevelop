@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+        "spec": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\mizuk\\AppData\\Local\\Temp\\apm-install-dir-11751-15288-1j704er.xvi86qd7vi"
+    ]
+  ],
+  "_from": "..\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+  "_id": "sonho-dark-syntax@2.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sonho-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+    "spec": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+  "_shasum": "e7fef22c7a2433d38708eeef558ce7ef160045f1",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\d-11751-15288-fgjgwl.gr3yds4i\\package.tgz",
+  "_where": "C:\\Users\\mizuk\\AppData\\Local\\Temp\\apm-install-dir-11751-15288-1j704er.xvi86qd7vi",
+  "bugs": {
+    "url": "https://github.com/protesilaos/sonho-dark-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Medium-to-high contrast theme. Relaxed and playful.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "homepage": "https://github.com/protesilaos/sonho-dark-syntax#readme",
+  "keywords": [
+    "syntax",
+    "magenta",
+    "cyan",
+    "yellow",
+    "dark"
+  ],
+  "license": "MIT",
+  "name": "sonho-dark-syntax",
+  "optionalDependencies": {},
+  "readme": "# Sonho syntax theme (dark variant)\n\nA medium-to-high contrast theme that delivers a playful, relaxed feel. The most prevalent colours are magenta, cyan, yellow, orange, and violet.\n\n*Sonho* comes in standalone light and dark variants (see further info below).\n\n## Screenshots\n\n![sonho dark screenshot html](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_html.png)\n\n![sonho dark screenshot scss](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_scss.png)\n\n![sonho dark screenshot js](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_js.png)\n\n![sonho dark screenshot md](https://raw.githubusercontent.com/protesilaos/prot16/master/sonho/img/sonho_dark_md.png)\n\n*The font is [Iosevka term](https://github.com/be5invis/Iosevka)*.  \n*The UI is [Atom Material](https://github.com/atom-material/atom-material-ui)*.\n## Download\n\nSearch for `sonho-dark-syntax` in Settings > Install > Themes. Or install it directly using the command:\n\n```shell\napm install sonho-dark-syntax\n```\n\n## Further information\n\nProject page: [https://protesilaos.com/sonho](https://protesilaos.com/sonho)\n\nSonho light version: [https://atom.io/themes/sonho-syntax](https://atom.io/themes/sonho-syntax)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protesilaos/sonho-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "2.0.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
